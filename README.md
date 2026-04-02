@@ -105,8 +105,9 @@ Passionate **Full Stack Developer** & **Cybersecurity Enthusiast** from Nepal �
 
 ---
 
-<!-- ═══════════ TROPHIES ═══════════ -->
+<!-- ═══════════ TROPHIES  -remove comment from the bellow to show trophies  ═══════════ -->
 
+<!--  
 ## 🏆 **GitHub Trophies**
 
 <div align="center">
@@ -114,6 +115,7 @@ Passionate **Full Stack Developer** & **Cybersecurity Enthusiast** from Nepal �
 <img src="https://github-profile-trophy.vercel.app/?username=spyborg11&theme=algolia&no-bg=true&no-frame=true&column=7&margin-w=10" alt="Trophies"/>
 
 </div>
+-->
 
 ---
 
